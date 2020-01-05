@@ -1,0 +1,19 @@
+ 
+  .green { 
+  color: #76EE00;  } 
+   
+   .red {  
+   color: #FF2400;  } 
+    
+   .blue  { 
+    color: #4169E1;  } 
+	
+	span  { 
+	color: #EEEE00;   
+    font-style: italic; 
+		 } 
+		 
+    
+	.text:hover {
+		 font-style: italic; 
+	}
